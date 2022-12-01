@@ -1,3 +1,4 @@
+//EasterEgg Freddy Mercury
 var count = 0;
   function buttonClick(){
         count++;
