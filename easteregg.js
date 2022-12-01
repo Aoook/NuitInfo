@@ -3,7 +3,7 @@ var count = 0;
   function buttonClick(){
         count++;
         if(count == 10){
-            window.open("https://www.youtube.com/watch?v=t99KH0TR-J4");
+            window.open("https://youtu.be/B4CKTc_WXEE?t=23");
             count=0;
         }
       }
