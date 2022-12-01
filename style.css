@@ -124,44 +124,6 @@ body {
   height: 40%;
 }
 
-.Reponse2 {
-  position: absolute;
-  left: 49%;
-  font-size: 12px;
-  color: white;
-  background-color: #e0115f;
-  text-align: center;
-  width: 48.5%;
-  height: 40%;
-}
-
-.Reponse3 {
-  position: absolute;
-  top: 60%;
-  font-size: 12px;
-  color: white;
-  background-color: #e0115f;
-  text-align: center;
-  width: 48.5%;
-  height: 40%;
-}
-
-.Reponse4 {
-  position: absolute;
-  top: 60%;
-  left: 49%;
-  font-size: 12px;
-  color: white;
-  background-color: #e0115f;
-  text-align: center;
-  width: 48.5%;
-  height: 40%;
-}
-
-.interieurSecondaire:hover {
-  background-color: rgb(243 244 246);
-}
-
 .fougas{
   position: absolute;
   top: 10%;
@@ -174,4 +136,10 @@ body {
   position: absolute;
   right: 0%;
   width: 6%;
+}
+
+.donate{
+  position: absolute;
+  width: 8%;
+  left: 1%;
 }
