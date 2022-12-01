@@ -151,3 +151,12 @@ body {
 .interieurSecondaire:hover {
   background-color: rgb(243 244 246);
 }
+
+.fougas{
+  position: absolute;
+  top: 10%;
+  left: 1%;
+  width: 9%;
+  border-radius: 100%;
+
+}
