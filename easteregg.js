@@ -1,4 +1,4 @@
-//Haut, haut, bas, bas, gauche, droite, gauche, droite, B, A
+//Konami code
 var pattern = ['ArrowUp', 'ArrowUp', 'ArrowDown', 'ArrowDown', 'ArrowLeft', 'ArrowRight', 'ArrowLeft', 'ArrowRight', 'b', 'a'];
 var current = 0;
 
