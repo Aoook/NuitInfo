@@ -166,15 +166,35 @@ body {
 }
 
 .Container1 {
-  background-color: #000000;
+  background-color: white;
+  color: black;
+  text-align: center;
   position: absolute;
   top: 20%;
-  left: 10%;
-  width: 20%;
+  width: 49%;
+}
+
+.Container2 {
+  background-color: white;
+  color: black;
+  text-align: center;
+  position: absolute;
+  top: 20%;
+  right: 0;
+  width: 49%;
 }
 
 .logo {
   position: absolute;
   right: 0%;
   width: 6%;
+}
+
+h2{
+  font-size:150%;
+  color: #e0115f;
+}
+
+h3{
+  font-size: 100%;
 }
