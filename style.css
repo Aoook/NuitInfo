@@ -68,15 +68,6 @@ body {
   color: #ccc500;
 }
 
-.fougas{
-  position: absolute;
-  top: 25%;
-  left: 42%;
-  width: 15%;
-  border-radius: 100%;
-  background-color: #e0115f;
-}
-
 .Container1 {
     background-color: #b41451;
   color: white;
@@ -279,4 +270,13 @@ h4{
     height: 70%;
     height: auto;
     color: white;
+}
+
+.fougas{
+  position: absolute;
+  top: 22%;
+  left: 42%;
+  width: 15%;
+  border-radius: 100%;
+  background-color: #e0115f;
 }
