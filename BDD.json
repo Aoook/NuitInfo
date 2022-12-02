@@ -1,295 +1,348 @@
-{
-    "Question1": {
-        "Question": "Quel est la taille moyenne en Europe ?",
-        "Réponses": [
-            "16 cm",
+[
+    {
+
+        "question": "Quelle est la taille moyenne en Europe ?",
+        "answer" : "16 cm",
+        "opt": [
             "25 cm",
             "10 cm",
             "16 m"
         ]
     },
-        
-    "Question2": {
-        "Question": "Quelle est le temps moyen d'un rapport sexuel ?",
-        "Réponses": [
+
+    {
+
+        "question": "Quelle est le temps moyen d'un rapport sexuel ?",
+        "answer" :  "7 min",
+        "opt": [
             "1 h 30 min", 
-            "7 min", 
             "15 min",
             "30 min"
         ]
     },
-    "Question3": {
-        "Question": "Qu'est ce qu'une IST ?",
-        "Réponses": [
-            "Une Bactérie",
-            "Un virus",
-            "Des parasites",
+
+    {
+
+        "question": "Qu'est ce qu'une IST ?",
+        "answer" :  "Un virus",
+        "opt": [
+            "Une bataille navale",
+            "Une maladie génétique",
             "Une grippe"
         ]
     },
-    "Question4": {
-        "Question": "Comment les IST peuvent se transmettre ?",
-        "Réponses": [
+
+    {
+
+        "question": "Comment les IST peuvent se transmettre ?",
+        "answer" :  "Par cunnilingus",
+        "opt": [
             "Par eyes contact", 
-            "Par cunnilingus",
-            "Par Felation",
+            "Par check",
             "Par baiser"
         ]
     },
-    "Question5": {
-        "Question": "Quelle est l'IST la plus connue ?",
-        "Réponses": [
-            "VIH / SIDA",
+
+    {
+
+        "question": "Quelle est l'IST la plus connue ?",
+        "answer" : "VIH / SIDA",
+        "opt": [
             "GONOCOQUE",
             "CHLAMYDIAE",
             "HEPATITE B"
     ]
-},
-    "Question6": {
-        "Question": "Qu'est ce qui nous permet de devenir plus adulte ?",
-        "Réponses": [
+    },
+
+    {
+
+        "question": "Qu'est ce qui nous permet de devenir plus adulte ?",
+        "answer": "Les hormones",
+        "opt": [
             "Regarder des séries +18", 
             "Le café",
-            "Les hormones",
             "Manger plus de viande"
         ]
-    },  
-    "Question7": {
-        "Question": " La masturbation ca rend sourd ?",
-        "Réponses": [
+    },
+
+    {
+
+        "question": " La masturbation ca rend sourd ?",
+        "answer" : "Faux",
+        "opt": [
             "Vrai", 
-            "Faux"
+            "Que si on le fait trop de fois par jour",
+            "C'est un cas très rare"
         ]
     },
-    "Question8": {
-        "Question": "Il n'y a que les ados qui se masturbent ? ?",
-        "Réponses": [
+
+    {
+        "question": "Il n'y a que les ados qui se masturbent ?",
+        "answer" :  "Il n'y a pas d'ages",
+        "opt": [
             "Vrai", 
-            "Faux"
+            "Que entre 18 et 99 ans",
+            "C'est un mythe"
         ]
     },
-    "Question9": {
-        "Question": " Comment se protéger par voie oral ?",
-        "Réponses": [
+
+    {
+        "question": "Comment se protéger par voie oral ?",
+        "answer" :  "Avec une digue dentaire ?",
+        "opt": [
             "Avec du dentifrice ?", 
-            "Avec une digue dentaire ?",
             "De toute facon ca craint rien",
             "Avec un preservatif"
         ]
     },
-    "Question10": {
-        "Question": " C'est quoi la contraception parfaite ?",
-        "Réponses": [
-            "Il y en pas ",
+
+    {
+        "question": "C'est quoi la contraception parfaite ?",
+        "answer" :  "Il y en pas",
+        "opt": [
             "Le preservatif ",
             "Un preservatif vaginal",
-            "J'ai rien in s'en fiche"
+            "J'ai rien on s'en fiche"
         ]
     },
-    "Question11": {
-        "Question": "C'est quoi les contraceptions la plus courante ?",
-        "Réponses": [
-            "Les pilules", 
+
+    {
+        "question": "C'est quoi les contraceptions la plus courante ?",
+        "answer" :  "Les pilules",
+        "opt": [
             "L'anneau vaginal",
             "Le preservatif masculin", 
             "Le preservatif feminin"
         ]
     },
-    "Question12": {
-        "Question": "A partir de quelle âge a t-on le droit a la contraception ?",
-        "Réponses": [
+
+    {
+        "question": "A partir de quelle âge a t-on le droit a la contraception ?",
+        "answer" :  "Il n'y a pas d'age",
+        "opt": [
             "15 ans", 
             "14 ans",
-            "18 ans",
-            "Il n'y a pas d'age"
+            "18 ans"
         ]
     },
-    "Question13": {
-        "Question": " Que faire en cas d'urgence ?",
-        "Réponses": [
+
+    {
+        "question": " Que faire en cas d'urgence ?",
+        "answer" :  "Je prend la pilule du lendemain",
+        "opt": [
             "J'appel un ami", 
             "Je prend la pilule",
-            "Je prend la pilule du lendemain",
             "Je joue au poker"
         ]
     },
-    "Question14": {
-        "Question": "Ou se procurer une pilule du lendemain ?",
-        "Réponses": [
+
+    {
+        "question": "Ou se procurer une pilule du lendemain ?",
+        "answer" :  "En pharmacie",
+        "opt": [
             "Chez ton dealer du coin", 
-            "En pharmacie", 
-            "dans un CPEF",
+            "Demander à sa famille si il en reste ",
             "Dans un supermarché"
         ]
     },
-    "Question15": {
-        "Question": "Qu'est ce qu'un CPEF ?",
-        "Réponses": [
-            "Centre de planification et d'éducation familiale",
+
+    {
+        "question": "Qu'est ce qu'un CPEF ?",
+        "answer" :  "Centre de planification et d'éducation familiale ?",
+        "opt": [
             "Centre de placement éducatif favorisé",
             "Centre de planification d'éducation de football",
             "Centre de positionnement éducatif de fabricateur"
         ]
     },
-    "Question16": {
-        "Question": " Comment s'appelle l'hormone du désir ?",
-        "Réponses": [
+
+    {
+        "question": "Comment s'appelle l'hormone du désir ?",
+        "answer" :  "Testostérone",
+        "opt": [
             "Adrénaline", 
             "Endorphine",
-            "Testostérone",
             "Sérotonine"
         ]
     },
-    "Question17": {
-        "Question": " Qu'est ce qui provoque l'orgasme ?",
-        "Réponses": [
-            "Un plaisir très intense",
+
+    {
+        "question": " Qu'est ce qui provoque l'orgasme ?",
+        "answer" :  "Un plaisir très intense",
+        "opt": [
             "Une partie de Fifa gagné ",
             "La France qui gagne la Coupe du Monde",
-            "Les endorphines au maximum"
+            "Les endorphines au minimum"
         ]
     },
-    "Question18": {
-        "Question": " Est ce que désirer c'est aimer ?",
-        "Réponses": [
-            "Vrai", 
-            "Faux"
+
+    {
+        "question": "Est ce que désirer c'est aimer ?",
+        "answer" :  "Non",
+        "opt": [
+            "Avec parcémonie", 
+            "Oui",
+            "Juste si on a envie de faire l'amour"
         ]
     },
-    "Question19": {
-        "Question": "Pourquoi une pénétration peut être douloureuse ?",
-        "Réponses": [
+
+    {
+        "question": "Pourquoi une pénétration peut être douloureuse ?",
+        "answer" :  "Manque de lubrification",
+        "opt": [
             "Manque de désir", 
-            "Manque de lubrification",
-            "Préliminaires trop hâtifs",
+            "Préliminaires trop long",
             "Des papillons dans le ventre"
         ]
     },
-    "Question20": {
-        "Question": "C'est quoi la sodomie ?",
-        "Réponses": [
+
+    {
+        "question": "C'est quoi la sodomie ?",
+        "answer" :  "Une penetration de l'anus",
+        "opt": [
             "Un jeu avec de l'eau", 
             "Une position sexuelle",
-            "Une penetration de l'anus",
             "Un jeu de carte"
         ]
     },
-    "Question21": {
-        "Question": "C'est quoi une pipe ?",
-        "Réponses": [
+
+    {
+        "question": "C'est quoi une pipe ?",
+        "answer" :  "Stimuler le pénis avec la bouche",
+        "opt": [
             "C'est une clope de grand pere", 
             "Une blague de tonton",
-            "Stimuler le pénis avec la bouche",
             "La réponse 4"
         ]
     },
-    "Question22": {
-        "Question": "Pourquoi ont été inventé les Corn-Flakes ?",
-        "Réponses": [
+
+    {
+        "question": "Pourquoi ont été inventé les Corn-Flakes ?",
+        "answer" :  "Pour lutter contre la masturbation",
+        "opt": [
             "Pour avoir un petit dejeuner équilibré", 
-            "Pour lutter contre la masturbation",
             "Pour les mélanger avec du lait",
             "Les illuminati"
         ]
-    }, 
-    "Question23": {
-        "Question": "Est ce que le porno c'est interdit ?",
-        "Réponses": [
-            "Vrai", 
-            "Faux"
+    },
+
+    {
+        "question": "Est ce que le porno c'est interdit ?",
+        "answer" :  "Il faut etre majeur",
+        "opt": [
+            "Oui mais qu'avec les -18 ans", 
+            "Non tout est permis",
+            "Si c'est en naviguation privée ca passe "
         ]
     },
-    "Question24": {
-        "Question": "Que faire en cas d'abus ?",
-        "Réponses": [
+
+    {
+        "question": "Que faire en cas d'abus ?",
+        "answer" :  "En parler",
+        "opt": [
             "Boire une bière", 
             "Garder pour soi",
-            "En parler", 
             "En parler dans son journal secret"
         ]
     },
-    "Question25": {
-        "Question": "Y a-t-il une « majorité » sexuelle ? ?",
-        "Réponses": [
-            "Oui", 
-            "Non"
+
+    {
+        "question": "Y a-t-il une « majorité » sexuelle ?",
+        "answer" :  "Il n'y a pas d'age",
+        "opt": [
+            "Que si c'est consentit", 
+            "Que si on a fait la promesse du petit doigt",
+            "Ilona elle est grave mature pour son âge (Mister V)"
         ]
     },
-    "Question26": {
-        "Question": " C'est quoi la transidentité ?",
-        "Réponses": [
-            "Se sentir Femme alors qu'on est né Homme",
-            "Se sentir Homme alors qu'on est né Femme",
+
+    {
+        "question": "C'est quoi la transidentité ?",
+        "answer" :  "Se sentir Femme alors qu'on est né Homme et inversement",
+        "opt": [
+            "Se sentir Zèbre",
             "Etre bisexuel",
             "Ne pas choisir qui on est"
         ]
     },
-    "Question27": {
-        "Question": " Qu'est ce que l'homophobie ?",
-        "Réponses": [
+
+    {
+        "question": " Qu'est ce que l'homophobie ?",
+        "answer" :  "La violence envers les personnes homosexuelles",
+        "opt": [
             "La peur de l'eau", 
-            "La violence envers les personnes homosexuelles",
             "Une violence gratuite pour tout le monde",
             "Ca sert a rien"
         ]
     },
-    "Question28": {
-        "Question": " Qu'est ce que le sexisme ?",
-        "Réponses": [
-            "Discrimination envers les femmes",
-            "Discrimination envers les hommes",
+
+    {
+        "question": " Qu'est ce que le sexisme",
+        "answer" :  "Discrimination envers les femmes et Hommes",
+        "opt": [
+            "Les femmes qui jouent au foot",
             "Du harcèlement sur internet",
             "Les femmes à la cuisine"
         ]
     },
-    "Question29": {
-        "Question": "Le consentement se fait à deux ?",
-        "Réponses": [
-            "Vrai",
-            "Faux"
+
+    {
+        "question": "Le consentement se fait à deux ?",
+        "answer" :  "Vrai",
+        "opt": [
+            "Faux",
+            "Au pire c'est pas grave",
+            "1,5 c'est deja pas mal"
         ]
     },
-    "Question30": {
-        "Question": "Combien il éxiste de types d'herpes ?",
-        "Réponses": [
+
+    {
+        "question": "Combien il éxiste de types d'herpes ?",
+        "answer" :  "2",
+        "opt": [
             "4", 
             "8",
-            "12",
-            "2"
+            "12"
         ]
     },
-    "Question31": {
-        "Question": "Comment on se fait dépister pour la syphilis ?",
-        "Réponses": [
-            "Par prise de sang",
+
+    {
+        "question": "Comment on se fait dépister pour la syphilis ?",
+        "answer" :  "Par prise de sang",
+        "opt": [
             "Par éthylotest", 
             "Par analyse salivaire",
             "Par analyse urinaire"
         ]
     },
-    "Question32": {
-        "Question": "Quelle est la tranche d'âge pour se faire contaminer par des HPV ? ?",
-        "Réponses": [
+
+    {
+        "question": "Quelle est la tranche d'âge pour se faire contaminer par des HPV ? ",
+        "answer" :  "11 à 19 ans",
+        "opt": [
             "Il n'y a pas d'age", 
-            "11 à 19 ans",
             "Dès la naissance",
             "A partir de ta première fois"
         ]
     },
-    "Question33": {
-        "Question": "Un baiser est-il un risque de contamination du SIDA ?",
-        "Réponses": [
-            "Vrai", 
-            "Faux"
+
+    {
+        "question": "Un baiser est-il un risque de contamination du SIDA ?",
+        "answer" :  "Faux",
+        "opt": [
+            "Non si on s'est lavé les dents", 
+            "Vrai",
+            "Vrai si on s'est pas lavé les dents"
         ]
     },
-    "Question34": {
-        "Question": "Comment se faire dépister de la Chlamydiae ?",
-        "Réponses": [
+
+    {
+        "question": "Comment se faire dépister de la Chlamydiae ?",
+        "answer" :  "Par analyse urinaire",
+        "opt": [
             "Par éthylotest", 
-            "Par analyse salivaire",
             "Par prise de sang",
             "Par analyse urinaire"
         ]
     }
-}
+]
