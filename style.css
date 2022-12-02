@@ -78,8 +78,8 @@ body {
 }
 
 .Container1 {
-  background-color: white;
-  color: black;
+    background-color: #b41451;
+  color: white;
   text-align: center;
   position: absolute;
   top: 20%;
@@ -87,8 +87,8 @@ body {
 }
 
 .Container2 {
-  background-color: white;
-  color: black;
+    background-color: #b41451;
+  color: white;
   text-align: center;
   position: absolute;
   top: 20%;
@@ -112,7 +112,7 @@ body {
 
 h3{
   font-size:150%;
-  color: #e0115f;
+  color: #ef8cb2;
 }
 
 h4{
@@ -158,4 +158,23 @@ h4{
     left: 2%;
     color: white;
     font-size: 150%;
+}
+
+.Def{
+    position: absolute;
+    top: 25%;
+    background-color: #b41451;
+    width: 49%;
+    height: auto;
+    color: white;
+}
+
+.Objectifs{
+    position: absolute;
+    top: 25%;
+    right: 0.5%;
+    background-color: #b41451;
+    width: 49%;
+    height: auto;
+    color: white;
 }
