@@ -341,8 +341,7 @@
         "answer" :  "Par analyse urinaire",
         "opt": [
             "Par éthylotest", 
-            "Par prise de sang",
-            "Par analyse urinaire"
+            "Par prise de sang"
         ]
     }
 ]
