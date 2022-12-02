@@ -1,6 +1,7 @@
 [
     {
-        "question": "Quel est la taille moyenne en Europe ?",
+
+        "question": "Quelle est la taille moyenne en Europe ?",
         "answer" : "16 cm",
         "opt": [
             "25 cm",
@@ -10,12 +11,338 @@
     },
 
     {
-        "question": "Quel est la taille moyenne en Europe ?",
-        "answer" : "16 cm",
+
+        "question": "Quelle est le temps moyen d'un rapport sexuel ?",
+        "answer" :  "7 min",
         "opt": [
-            "25 cm",
-            "10 cm",
-            "16 m"
+            "1 h 30 min", 
+            "15 min",
+            "30 min"
+        ]
+    },
+
+    {
+
+        "question": "Qu'est ce qu'une IST ?",
+        "answer" :  "Un virus",
+        "opt": [
+            "Une bataille navale",
+            "Une maladie génétique",
+            "Une grippe"
+        ]
+    },
+
+    {
+
+        "question": "Comment les IST peuvent se transmettre ?",
+        "answer" :  "Par cunnilingus",
+        "opt": [
+            "Par eyes contact", 
+            "Par check",
+            "Par baiser"
+        ]
+    },
+
+    {
+
+        "question": "Quelle est l'IST la plus connue ?",
+        "answer" : "VIH / SIDA",
+        "opt": [
+            "GONOCOQUE",
+            "CHLAMYDIAE",
+            "HEPATITE B"
+    ]
+    },
+
+    {
+
+        "question": "Qu'est ce qui nous permet de devenir plus adulte ?",
+        "answer": "Les hormones",
+        "opt": [
+            "Regarder des séries +18", 
+            "Le café",
+            "Manger plus de viande"
+        ]
+    },
+
+    {
+
+        "question": " La masturbation ca rend sourd ?",
+        "answer" : "Faux",
+        "opt": [
+            "Vrai", 
+            "Que si on le fait trop de fois par jour",
+            "C'est un cas très rare"
+        ]
+    },
+
+    {
+        "question": "Il n'y a que les ados qui se masturbent ?",
+        "answer" :  "Il n'y a pas d'ages",
+        "opt": [
+            "Vrai", 
+            "Que entre 18 et 99 ans",
+            "C'est un mythe"
+        ]
+    },
+
+    {
+        "question": "Comment se protéger par voie oral ?",
+        "answer" :  "Avec une digue dentaire ?",
+        "opt": [
+            "Avec du dentifrice ?", 
+            "De toute facon ca craint rien",
+            "Avec un preservatif"
+        ]
+    },
+
+    {
+        "question": "C'est quoi la contraception parfaite ?",
+        "answer" :  "Il y en pas",
+        "opt": [
+            "Le preservatif ",
+            "Un preservatif vaginal",
+            "J'ai rien on s'en fiche"
+        ]
+    },
+
+    {
+        "question": "C'est quoi les contraceptions la plus courante ?",
+        "answer" :  "Les pilules",
+        "opt": [
+            "L'anneau vaginal",
+            "Le preservatif masculin", 
+            "Le preservatif feminin"
+        ]
+    },
+
+    {
+        "question": "A partir de quelle âge a t-on le droit a la contraception ?",
+        "answer" :  "Il n'y a pas d'age",
+        "opt": [
+            "15 ans", 
+            "14 ans",
+            "18 ans"
+        ]
+    },
+
+    {
+        "question": " Que faire en cas d'urgence ?",
+        "answer" :  "Je prend la pilule du lendemain",
+        "opt": [
+            "J'appel un ami", 
+            "Je prend la pilule",
+            "Je joue au poker"
+        ]
+    },
+
+    {
+        "question": "Ou se procurer une pilule du lendemain ?",
+        "answer" :  "En pharmacie",
+        "opt": [
+            "Chez ton dealer du coin", 
+            "Demander à sa famille si il en reste ",
+            "Dans un supermarché"
+        ]
+    },
+
+    {
+        "question": "Qu'est ce qu'un CPEF ?",
+        "answer" :  "Centre de planification et d'éducation familiale ?",
+        "opt": [
+            "Centre de placement éducatif favorisé",
+            "Centre de planification d'éducation de football",
+            "Centre de positionnement éducatif de fabricateur"
+        ]
+    },
+
+    {
+        "question": "Comment s'appelle l'hormone du désir ?",
+        "answer" :  "Testostérone",
+        "opt": [
+            "Adrénaline", 
+            "Endorphine",
+            "Sérotonine"
+        ]
+    },
+
+    {
+        "question": " Qu'est ce qui provoque l'orgasme ?",
+        "answer" :  "Un plaisir très intense",
+        "opt": [
+            "Une partie de Fifa gagné ",
+            "La France qui gagne la Coupe du Monde",
+            "Les endorphines au minimum"
+        ]
+    },
+
+    {
+        "question": "Est ce que désirer c'est aimer ?",
+        "answer" :  "Non",
+        "opt": [
+            "Avec parcémonie", 
+            "Oui",
+            "Juste si on a envie de faire l'amour"
+        ]
+    },
+
+    {
+        "question": "Pourquoi une pénétration peut être douloureuse ?",
+        "answer" :  "Manque de lubrification",
+        "opt": [
+            "Manque de désir", 
+            "Préliminaires trop long",
+            "Des papillons dans le ventre"
+        ]
+    },
+
+    {
+        "question": "C'est quoi la sodomie ?",
+        "answer" :  "Une penetration de l'anus",
+        "opt": [
+            "Un jeu avec de l'eau", 
+            "Une position sexuelle",
+            "Un jeu de carte"
+        ]
+    },
+
+    {
+        "question": "C'est quoi une pipe ?",
+        "answer" :  "Stimuler le pénis avec la bouche",
+        "opt": [
+            "C'est une clope de grand pere", 
+            "Une blague de tonton",
+            "La réponse 4"
+        ]
+    },
+
+    {
+        "question": "Pourquoi ont été inventé les Corn-Flakes ?",
+        "answer" :  "Pour lutter contre la masturbation",
+        "opt": [
+            "Pour avoir un petit dejeuner équilibré", 
+            "Pour les mélanger avec du lait",
+            "Les illuminati"
+        ]
+    },
+
+    {
+        "question": "Est ce que le porno c'est interdit ?",
+        "answer" :  "Il faut etre majeur",
+        "opt": [
+            "Oui mais qu'avec les -18 ans", 
+            "Non tout est permis",
+            "Si c'est en naviguation privée ca passe "
+        ]
+    },
+
+    {
+        "question": "Que faire en cas d'abus ?",
+        "answer" :  "En parler",
+        "opt": [
+            "Boire une bière", 
+            "Garder pour soi",
+            "En parler dans son journal secret"
+        ]
+    },
+
+    {
+        "question": "Y a-t-il une « majorité » sexuelle ?",
+        "answer" :  "Il n'y a pas d'age",
+        "opt": [
+            "Que si c'est consentit", 
+            "Que si on a fait la promesse du petit doigt",
+            "Ilona elle est grave mature pour son âge (Mister V)"
+        ]
+    },
+
+    {
+        "question": "C'est quoi la transidentité ?",
+        "answer" :  "Se sentir Femme alors qu'on est né Homme et inversement",
+        "opt": [
+            "Se sentir Zèbre",
+            "Etre bisexuel",
+            "Ne pas choisir qui on est"
+        ]
+    },
+
+    {
+        "question": " Qu'est ce que l'homophobie ?",
+        "answer" :  "La violence envers les personnes homosexuelles",
+        "opt": [
+            "La peur de l'eau", 
+            "Une violence gratuite pour tout le monde",
+            "Ca sert a rien"
+        ]
+    },
+
+    {
+        "question": " Qu'est ce que le sexisme",
+        "answer" :  "Discrimination envers les femmes et Hommes",
+        "opt": [
+            "Les femmes qui jouent au foot",
+            "Du harcèlement sur internet",
+            "Les femmes à la cuisine"
+        ]
+    },
+
+    {
+        "question": "Le consentement se fait à deux ?",
+        "answer" :  "Vrai",
+        "opt": [
+            "Faux",
+            "Au pire c'est pas grave",
+            "1,5 c'est deja pas mal"
+        ]
+    },
+
+    {
+        "question": "Combien il éxiste de types d'herpes ?",
+        "answer" :  "2",
+        "opt": [
+            "4", 
+            "8",
+            "12"
+        ]
+    },
+
+    {
+        "question": "Comment on se fait dépister pour la syphilis ?",
+        "answer" :  "Par prise de sang",
+        "opt": [
+            "Par éthylotest", 
+            "Par analyse salivaire",
+            "Par analyse urinaire"
+        ]
+    },
+
+    {
+        "question": "Quelle est la tranche d'âge pour se faire contaminer par des HPV ? ",
+        "answer" :  "11 à 19 ans",
+        "opt": [
+            "Il n'y a pas d'age", 
+            "Dès la naissance",
+            "A partir de ta première fois"
+        ]
+    },
+
+    {
+        "question": "Un baiser est-il un risque de contamination du SIDA ?",
+        "answer" :  "Faux",
+        "opt": [
+            "Non si on s'est lavé les dents", 
+            "Vrai",
+            "Vrai si on s'est pas lavé les dents"
+        ]
+    },
+
+    {
+        "question": "Comment se faire dépister de la Chlamydiae ?",
+        "answer" :  "Par analyse urinaire",
+        "opt": [
+            "Par éthylotest", 
+            "Par prise de sang",
+            "Par analyse urinaire"
         ]
     }
 ]
