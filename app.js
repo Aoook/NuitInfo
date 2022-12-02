@@ -38,7 +38,7 @@ function createQuestion(data){
     }
 
     else{
-        const tBtn = pagesEles(el, 'button', 'Next', 'next');
+        const tBtn = pagesEles(el, 'button', 'Zeubmit', 'next');
         tBtn.onclick = () => {
             el.remove();
             createQuestion(data);
@@ -55,7 +55,7 @@ function createQuestion(data){
 
 function outputQuestion(question, parent, tBtn){
     console.log(question);
-    const que = pagesEles(parent, 'div', `${question.question}?`, 'question');
+    const que = pagesEles(parent, 'div', `${question.question}`, 'question');
     const arr = question.opt;
     arr.push(question.answer);
     arr.sort(()=>{
@@ -76,7 +76,7 @@ function outputQuestion(question, parent, tBtn){
             const temps = parent.querySelectorAll('.btns');
             temps.forEach(el=> {
                 el.disabled = true;
-                const bgc = (question.answer == el.textContent)?'green':'red';
+                const bgc = (question.answer == el.textContent)?'#48b044':'#b41451';
                 el.style.backgroundColor = bgc;
             })
             tBtn.style.display = "block";
