@@ -34,7 +34,7 @@ function createQuestion(data){
     
     //console.log(data);
     if(data.q.length == 0){
-        message.innerHTML = `<h1>Game Over</h1><div>You scored ${game.score} correct out of ${data.total} questions.</div>`;
+        message.innerHTML = `<h1>Fin du jeu</h1><div>Vous avez ${game.score} réponses correctes sur ${data.total} questions.</div>`;
     }
 
     else{
